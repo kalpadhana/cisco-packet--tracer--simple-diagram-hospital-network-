@@ -96,5 +96,5 @@ This network design for a hospital demonstrates logical segmentation, secure com
 
 ## 👤 Author
 
-*Your Name*  
+*kalpa dhananjaya*  
 IT Student | Network Enthusiast
